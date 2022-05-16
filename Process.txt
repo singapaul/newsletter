@@ -1,0 +1,6 @@
+1. Create files.
+npm init. 
+install npm modules - body-parser, express, request
+
+
+
